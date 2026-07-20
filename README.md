@@ -112,7 +112,7 @@ I am always interested in collaborating on:
   <a href="https://github.com/FurqanMemon123" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/search/results/all/?keywords=Furqan%20Adnan" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-furqan-a3a85027b" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
